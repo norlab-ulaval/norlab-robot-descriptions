@@ -1,12 +1,12 @@
 [submodule "husky"]
 	path = husky
-	url = git@github.com:norlab-ulaval/husky.git
+	url = https://github.com/norlab-ulaval/husky.git
 [submodule "marmotte"]
 	path = marmotte
-	url = git@github.com:norlab-ulaval/marmotte_description.git
+	url = https://github.com/norlab-ulaval/marmotte_description.git
 [submodule "warthog"]
 	path = warthog
-	url = git@github.com:norlab-ulaval/warthog_description.git
+	url = https://github.com/norlab-ulaval/warthog_description.git
 [submodule "backpack"]
 	path = backpack
-	url = git@github.com:norlab-ulaval/backpack_description.git
+	url = https://github.com/norlab-ulaval/backpack_description.git
