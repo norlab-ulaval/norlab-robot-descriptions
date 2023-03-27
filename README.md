@@ -6,10 +6,16 @@
 
 ```sh
 git clone --recurse-submodules git@github.com:norlab-ulaval/norlab-robot-descriptions.git
+```
+
+```sh
 git clone --recurse-submodules https://github.com/norlab-ulaval/norlab-robot-descriptions.git
 ```
 
 ## Usage
+
+You can install this repo as a ROS2 package or as a standalone repo.
+You don't need to create and build in a workspace to use it as a standalone repository.
 
 ### ROS2 package
 
