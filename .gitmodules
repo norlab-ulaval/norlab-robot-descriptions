@@ -10,3 +10,6 @@
 [submodule "backpack"]
 	path = backpack
 	url = https://github.com/norlab-ulaval/backpack_description.git
+[submodule "sphere"]
+	path = sphere
+	url = git@github.com:norlab-ulaval/sphere_description.git
